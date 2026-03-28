@@ -14,21 +14,21 @@ This project is based on digital literacy and its importance in today's world. T
 
 ## Module Summaries
 
-### Module 1: Infographic
+### Module 1: Digital Literacy Awareness Infographic
 Created an infographic using canva to explain digital literacy and safe internet practices.
 
-### Module 2: Digital Protfolio
+### Module 2: Digital Profile and Protfolio
 Created and updated profiles on GitHub,LinkedIn, and Kaggle.
 
-### Module 3: Platform Practice
+### Module 3: Coding Platform and Quiz Creation
 Practised coding on HackerRank and created a digital literacy awareness quiz using Google Forms.
 
 -Ouiz Form: [Open Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfbCtuRw0o3Z0Nr7eH-tkGA5dPU-U-tUDGKqNawhPawDbnzJQ/viewform?usp=dialog)
 
-### Module 4: Communication
+### Module 4: Email Etiquette and Social Media Checklist
 Learned email writing and created a social media checklist.
 
-### Module 5: Cyber Safety
+### Module 5: Cybercrime Awareness and Safety
 Studied a cybercrime case and created a safety checklist.
 
 ## Project Links
