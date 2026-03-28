@@ -37,7 +37,7 @@ Studied a cybercrime case and created a safety checklist.
 -[Task 3](task-3-platforms)
 -[Task 4](task-4-email-etiquette)
 -[Task 5](task-5-cybercrime)
--[Project Report](report/report.pdf)
+-[Project Report](report/Project_Report.pdf)
 
 ## Tools Used
 Canva, GitHub, LinkedIn, Kaggle, HackerRank, Google Forms, Google Sheets
