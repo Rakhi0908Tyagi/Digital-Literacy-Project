@@ -1,4 +1,4 @@
-# \#Stay Safe Online Checklist
+# Stay Safe Online Checklist
 
 
 
