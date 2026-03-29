@@ -4,7 +4,7 @@
 
 
 
-**Ransomware** is a type of cybercrime in which hackers enter a system without permission and block or damage important data, and then demand money to fix it.
+**Ransomware** is a type of cybercrime in which hackers enter a system without permission and block or damage important data, and then demand for money to fix it.
 
 
 
@@ -16,11 +16,11 @@ A **real case** reported in June 2025 showed how an *IT company* in *Kolkata*, w
 
 
 
-In this case, attackers first gained unauthorized access to the company's servers. This happened multiple times between June 15 and June 25.
+In this case, attackers somehow gained the access to the company's servers without permission. This happened multiple times between June 15 and June 25.
 
-After entering the system, they accessed and even deleted important admission data of students.
+After entering the system they accessed and even deleted important admission data of students.
 
-Then, they used fake email IDs to send messages to students, asking them to transfer money by sharing bank details. Many students thought the emails were real and ended up sending money.
+Then, they used fake email IDs to send messages to students, asked them to transfer money by sharing bank details. Many students thought the emails were real and they send money.
 
 The attackers also sent threatening emails, which showed that they were demanding ransom.
 
@@ -36,7 +36,7 @@ This type of cybercrime mainly **targets** *organisations* that handle large amo
 
 
 
-The **consequences** were serious, as the admission process was *disrupted*, *important data was lost*, and some *students faced financial loss*.
+Because of this many **problem** happened as the admission process was *disrupted*, *important data was lost*, and some *students faced financial loss*.
 
 It also created confusion and stress among students and colleges.
 
